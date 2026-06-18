@@ -1,0 +1,18 @@
+[
+    {
+        "codigo": "15",
+        "nome": "chaveiro",
+        "data_fabricacao": "21/12/1945",
+        "fornecedor": "apostolo",
+        "quantidade": 2,
+        "valor_compra": 1200.0
+    },
+    {
+        "codigo": "1",
+        "nome": "Deivide",
+        "data_fabricacao": "01/12/2002",
+        "fornecedor": "Fred",
+        "quantidade": 2,
+        "valor_compra": 1200.0
+    }
+]
